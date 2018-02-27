@@ -39,15 +39,16 @@ repository contains the solution for Laboratory 6 in Computer Science 112.
 
 This assignment requires a programmer to implement and test a benchmarking
 framework that supports the empirical evaluation of a `PasswordChecker`. More
-details about the the password checking strategy are provided in the assignment
+details about the password checking strategy are provided in the assignment
 sheet and later in this document. You can learn about experimental studies by
 reading the content in Section 4.1. Please note that this assignment will also
 require you to read and uses Java classes that contain a test suite. The
 programmer is also responsible for learning how to run and extend a test suite
-written in the JUnit testing framework, as explained in Section 1.9. As verified
-by [Checkstyle](https://github.com/checkstyle/checkstyle), the source code for
-all of the Java source code files must adhere to all of the requirements in the
-[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
+written in the JUnit testing framework, as explained in Section 1.9. As
+verified by [Checkstyle](https://github.com/checkstyle/checkstyle), the source
+code for all of the Java source code files must adhere to all of the
+requirements in the [Google Java Style
+Guide](https://google.github.io/styleguide/javaguide.html).
 
 The programmer is also responsible for writing a reflection, stored in the file
 `writing/reflection.md`, that responds to the questions in the assignment sheet
