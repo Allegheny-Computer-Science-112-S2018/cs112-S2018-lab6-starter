@@ -48,9 +48,8 @@ public class RunCampaign implements Campaign {
     if ( valid ) {
       System.out.println("Starting a campaign of experiments with valid passwords" + " ...");
       // TODO: Run a campaign of experiments with random passwords known to be valid
-      } else {
+    } else {
       // TODO: Run a campaign of experiments with random passwords known to be invalid
-      }
     }
     System.out.println("... Finishing a campaign of experiments with the password checker ...");
     return results;
