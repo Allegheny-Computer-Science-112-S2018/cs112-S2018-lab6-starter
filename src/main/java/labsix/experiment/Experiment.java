@@ -11,7 +11,7 @@ import labsix.data.ResultsTable;
 
 public class Experiment {
 
-  /** Run a Sorter in an experiment campaign. */
+  /** Run a PasswordChecker in an experiment campaign. */
   public static void main(String[] args) {
     RunCampaign runCampaign = new RunCampaign();
     // TODO: Create a PasswordChecker and run it in a campaign with valid passwords
