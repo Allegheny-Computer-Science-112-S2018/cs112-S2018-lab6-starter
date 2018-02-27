@@ -33,6 +33,7 @@ public class PasswordChecker {
     // --> Must contain an uppercase letter
     // --> Must contain a special symbol of @, #, $, or #
     // --> Must contain at least six characters
+    return true;
   }
 
 }
