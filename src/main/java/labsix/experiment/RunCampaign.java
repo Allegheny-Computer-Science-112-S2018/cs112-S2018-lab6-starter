@@ -39,7 +39,7 @@ public class RunCampaign implements Campaign {
     return new String("");
   }
 
-  /** Run a Sorter in an experiment campaign. */
+  /** Run a PasswordChecker in an experiment campaign. */
   public ResultsTable run(PasswordChecker checker, boolean valid) {
     int campaignRound = 0;
     int currentInputSize = INPUT_SIZE_START;
